@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# VSCode
+.vscode/
+
+# Proyect
+package-lock.json
+cypress/results
