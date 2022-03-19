@@ -1,7 +1,7 @@
 {
-  "name": "cypress-example",
+  "name": "cypress-cucumber-example",
   "version": "1.0.0",
-  "description": "Cypress example project",
+  "description": "Cypress + Cucumber example project",
   "main": "index.js",
   "author": "",
   "license": "MIT",

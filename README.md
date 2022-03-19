@@ -1,6 +1,6 @@
-# Cypress Example
+# Cypress + Cucumber Example
 
-This repository contains the base setup of an UI testing project, using Cypress
+This repository contains the base setup of an UI testing project, using Cypress + Cucumber
 
 A simple search in DuckDuckGo to check that results are displayed is used as example
 
@@ -42,5 +42,7 @@ To check the report, open the '/repors/index.html' file once the execution has f
 # Links
     
 [Cypress](<https://www.cypress.io/>)
+
+[cypress-cucumber-preprocessor](<https://github.com/TheBrainFamily/cypress-cucumber-preprocessor>)
 
 [cypress-mochawesome-reporter](<https://github.com/LironEr/cypress-mochawesome-reporter>)
