@@ -1,6 +1,6 @@
-# Cypress + Cucumber Example
+# Cypress v9 + Cucumber Example
 
-This repository contains the base setup of an UI testing project, using Cypress + Cucumber
+This repository contains the base setup of an UI testing project, using Cypress v9 + Cucumber
 
 A simple search in DuckDuckGo to check that results are displayed is used as example
 
@@ -8,8 +8,8 @@ A simple search in DuckDuckGo to check that results are displayed is used as exa
 
 The minimum requirements are:
 
-* node v16.14.2
-* npm 8.5.0
+node v18.16
+npm 9.5.1
 
 # Setup
 
